@@ -123,6 +123,9 @@ li a{
     height: 60vh;
     background-color:#f7f6f1;
 }
+.texto h1{
+    text-align: center;
+}
 .img1 {
     width: 25%;
     height: 40%;
